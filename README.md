@@ -1,2 +1,2 @@
-These are all the excercises and examples creating to taught myself neural network, machine learning
+These are all the excercises and examples created to teach myself neural network, machine learning
 ----------------------------------------------------------------------------------------------------
